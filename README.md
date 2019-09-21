@@ -8,6 +8,6 @@
 
 # Sample Outputs
 
-<img src="five.png"><br><br>
-<img src="four.png"><br><br>
-<img src="one.png">
+<img src="five.PNG"><br><br>
+<img src="four.PNG"><br><br>
+<img src="one.PNG">
